@@ -37,5 +37,4 @@ This repo includes all training & evaluation code for classifying cough events u
 
 ##  Architecture
 
-
----![205b2d73-e260-47d6-a5d4-1ce90ad4e103](https://github.com/user-attachments/assets/b424697f-3b8e-4739-8418-2f2899c9cf51)
+![205b2d73-e260-47d6-a5d4-1ce90ad4e103](https://github.com/user-attachments/assets/b424697f-3b8e-4739-8418-2f2899c9cf51)
