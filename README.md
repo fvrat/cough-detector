@@ -5,10 +5,11 @@ This repo includes all training & evaluation code for classifying cough events u
 ---
 
 ## Dataset
-
-- [Edge-AI Cough Counter](https://github.com/orlandic/edge-ai-cough-counter)
-- 4,300+ labeled cough events
-- Audio + IMU (sitting, walking, noisy environments)
+**Multimodal Dataset for Automatic Cough Detection**  
+  Zenodo: https://zenodo.org/record/7562332  
+  DOI: [10.5281/zenodo.7562332](https://doi.org/10.5281/zenodo.7562332)
+- 4,300+ labeled cough events  
+- Audio + IMU (sitting, walking, various noises)
 
 ---
 
